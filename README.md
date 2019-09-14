@@ -9,6 +9,10 @@ respository and various commands using a web project.
 
 ## Purpose
 
+A stated aboew, the mout...
+
 ## Deployment
+
+This is simple app...
 
 ## How To Contribute
