@@ -4,7 +4,7 @@ This is a simple website project for showing how to use Git and Github together.
 
 Add.....
 
-Adding line for rebase
+Adding line for rebase, then more changes....
 
 ## Introduction
 
