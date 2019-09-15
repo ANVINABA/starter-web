@@ -17,6 +17,10 @@ This is simple app...
 
 ## How To Contribute
 
+If you wont contribute you only need a computer is very easy. 
+
+do you understand?
+
 ## Copyright
 
 .....
