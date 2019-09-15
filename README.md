@@ -25,6 +25,6 @@ If you wont contribute you only need a computer is very easy.
 
 do you understand?
 
-## Copyright
+## Copyright. All right
 
 .....
